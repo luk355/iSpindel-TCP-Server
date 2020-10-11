@@ -125,7 +125,7 @@ Warnings regarding X11 Authentication can be safely ignored.
 
 #### Install:
 
-	sudo apt-get install apache2 mysql-server mysql-client python-mysql.connector
+	sudo apt-get install apache2 mariadb-server mariadb-client python-mysql.connector
 
 When asked, choose a password for the database admin account.
 
